@@ -19,5 +19,6 @@ Librerías: Bootstrap version 4.3.1 , React versión v17.0.1 , Arduino 1.0.6
 ![4](https://user-images.githubusercontent.com/53912323/110991149-3ed29380-8342-11eb-99f4-9c446137ccef.PNG)
 
 
-![4](https://user-images.githubusercontent.com/53912323/110991215-59a50800-8342-11eb-8fd7-f09d94cebf5d.PNG)
+![6](https://user-images.githubusercontent.com/53912323/110991371-8bb66a00-8342-11eb-9c0c-1ec1a60d4dfe.PNG)
+
 
